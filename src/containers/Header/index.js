@@ -10,7 +10,7 @@ import MenuButton from '../../components/MenuButton';
 
 import { HeaderWrapper, Logo, NavButtons } from './style';
 
-import languages from '../../shared/languages';
+import languages from '../../i18n/languages';
 import moon from '../../assets/images/moon.svg';
 import sun from '../../assets/images/sun.svg';
 

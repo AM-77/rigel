@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import PropTypes from 'prop-types';
 import TagButton from '../../components/TagButton';
-import { uniqTags } from '../../shared/helpers';
+import { uniqTags } from '../../utils/helpers';
 import TagsWrapper from './style';
 
 const WorksTags = ({ filterKey, setFilterKey }) => {

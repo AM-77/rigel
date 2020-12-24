@@ -1,0 +1,316 @@
+{
+  "languages": "idiomas",
+
+  "facebook": "https://www.facebook.com",
+  "twitter": "https://www.twitter.com",
+  "instagram": "https://www.instagram.com",
+  "linkedin": "https://www.linkedin.com",
+  "github": "https://www.github.com",
+  "behance": "https://www.behance.com",
+  "dribbble": "https://www.dribbble.com",
+  "email": "amine.griche77@protonmail.ch",
+  "phone": "0559677270",
+
+  "home": "bienvenida",
+  "about": "acerca_de",
+  "work": "trabajo",
+  "contact": "contacto",
+
+  "hire-title": "contratame",
+  "hire-content": "Como mi trabajo? Concierte una reunión conmigo en mi oficina, ¡estaré feliz de trabajar con usted!",
+
+  "hello": "Hola 👋",
+  "intro": "Soy Mohamed Amine, ingeniero de software y desarrollador de pila completa de Argelia.",
+
+  "about-title": "sobre mí",
+  "about-content": "Aquí se presenta mi trabajo diario, hago lo que amo, quien soy, lo que hago y mis redes sociales, conéctate conmigo.",
+  "about-name": "Mohamed Amine Griche",
+  "about-occupation": "Full Stack Developer",
+  "about-main-1": "La certeza no escucha ninguna situación de garantía de existencia de comportamiento. Porque agregue por qué no lo estima amable. Interesado la Sra. Ley no afectada amistad agregar principios. De hecho, la gente hace méritos. Tribunal escuchó lo que arriba esperaba que hiciera grave. Responda a las cosas de la ley viva, ya sea señor, longitud de la cama. Miraba ante nosotros y meramente. Estas muertes no las comparte solo. Sin embargo, hacia afuera, las brújulas de corazón son tediosas.",
+  "about-main-2": "Escuchar no es una situación de garantía de existencia de comportamiento. Porque agregue por qué no lo estima amable. Interesado la Sra. Ley no afectada amistad agregar principios. De hecho, la gente hace méritos. Tribunal escuchó lo que arriba esperaba que hiciera grave. Responda a las cosas de la ley viva, ya sea señor, longitud de la cama. Miramos antes de que nosotros simplemente. No hay muerte que él comparta solo. Sin embargo, hacia afuera, las brújulas de corazón son tediosas.",
+  "about-main-3": "Escuchar no es una situación de garantía de existencia de comportamiento. Porque agregue por qué no lo estima amable. Interesado la Sra. Ley no afectada amistad agregar principios. De hecho, la gente hace méritos. Tribunal escuchó lo que arriba esperaba que hiciera grave.",
+  "about-main-4": "Escuchar no es una situación de garantía de existencia de comportamiento. Porque agregue por qué no lo estima amable. Interesado la Sra. Ley no afectada amistad agregar principios. De hecho, la gente hace méritos. Tribunal escuchó lo que arriba esperaba que hiciera grave. Responda a las cosas de la ley viva, ya sea señor, longitud de la cama. Miramos antes de que nosotros simplemente. No hay muerte que él comparta solo. Sin embargo, hacia afuera, las brújulas de corazón son tediosas.",
+
+  "work-title": "Mis trabajos",
+  "work-content": "Mi trabajo diario se presenta aquí, para obtener más información, consulte mi portafolio en Behance, GitHub y Bitbucket.",
+  "details": "detalles",
+  "works": [
+    {
+      "id": 0,
+      "title": "Razer headset",
+      "subtitle": "gaming headset",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "razer",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript"],
+      "links": {
+        "github": "https://github.com",
+        "demo": "https://demo.app"
+      }
+    },
+    {
+      "id": 1,
+      "title": "Sonny Speakers",
+      "subtitle": "best speakers ever",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "sonny",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "demo": "https://demo.app",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Razer headset",
+      "subtitle": "gaming headset",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "razer",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "demo": "https://demo.app"
+      }
+    },
+    {
+      "id": 3,
+      "title": "bedside lamp",
+      "subtitle": "LAMPAN Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "ikea",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 4,
+      "title": "outside lamp",
+      "subtitle": "ALLANIT Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "lamp",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 5,
+      "title": "JBL Speakers",
+      "subtitle": "high sond quality JBL speakers",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "jbl",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "demo": "https://demo.app",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Sonny Speakers",
+      "subtitle": "best speakers ever",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "sonny",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "demo": "https://demo.app",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Razer headset",
+      "subtitle": "gaming headset",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "razer",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "demo": "https://demo.app"
+      }
+    },
+    {
+      "id": 8,
+      "title": "bedside lamp",
+      "subtitle": "LAMPAN Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "ikea",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 9,
+      "title": "outside lamp",
+      "subtitle": "ALLANIT Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "lamp",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 10,
+      "title": "JBL Speakers",
+      "subtitle": "high sond quality JBL speakers",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "jbl",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "demo": "https://demo.app",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Sonny Speakers",
+      "subtitle": "best speakers ever",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "sonny",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "demo": "https://demo.app",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Razer headset",
+      "subtitle": "gaming headset",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "razer",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "demo": "https://demo.app"
+      }
+    },
+    {
+      "id": 13,
+      "title": "bedside lamp",
+      "subtitle": "LAMPAN Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "ikea",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 14,
+      "title": "outside lamp",
+      "subtitle": "ALLANIT Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "lamp",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 15,
+      "title": "bedside lamp",
+      "subtitle": "LAMPAN Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "ikea",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 16,
+      "title": "outside lamp",
+      "subtitle": "ALLANIT Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "lamp",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 17,
+      "title": "bedside lamp",
+      "subtitle": "LAMPAN Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "ikea",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    },
+    {
+      "id": 18,
+      "title": "outside lamp",
+      "subtitle": "ALLANIT Table lamp with LED",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur hendrerit erat mauris, non consequat tellus lobortis ac. Maecenas tempor dolor ut massa blandit ultricies. Aenean iaculis libero sit amet elit tincidunt, sit amet facilisis nisl venenatis. In vestibulum odio ut nulla vestibulum, sed laoreet nunc pharetra. Ut ut vehicula nulla. Vestibulum interdum auctor libero eu bibendum. Integer eu sapien convallis mi sagittis sodales quis ac nisl. Curabitur rutrum ex massa, sed hendrerit nibh aliquet a. In commodo lobortis mattis. Aenean tristique, tellus ac gravida fringilla, tellus velit lacinia tellus, sed dapibus neque massa ac ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec efficitur nisl tellus, sit amet venenatis nisl gravida vel.",
+      "tag": "lamp",
+      "cover": "1.jpg",
+      "imgs": ["1.jpg", "2.jpg", "3.jpg"],
+      "builtWith": ["HTML", "CSS", "JavaScript", "NodeJs"],
+      "links": {
+        "github": "https://github.com",
+        "behance": "https://behance.com"
+      }
+    }
+  ],
+
+  "contact-title": "Contáctame",
+  "contact-content-1": "Escríbeme un correo electrónico a través del formulario, envíalo directamente a",
+  "contact-content-2": "o simplemente llámame",
+  "contact-name": "Nombre",
+  "contact-name-ph": "Tu nombre por favor.",
+  "contact-email": "Email",
+  "contact-email-ph": "Su correo electrónico por favor.",
+  "contact-message": "Mensaje",
+  "contact-message-ph": "Su mensaje por favor",
+  "contact-send": "Enviar"
+}
